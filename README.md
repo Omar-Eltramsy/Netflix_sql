@@ -5,7 +5,7 @@ This project involves an analysis of Netflix's movies and TV shows data using SQ
 # Skills showcased in this Project
 * Database Management and Schema Design
 * Data Aggregation and Grouping
-* Advanced Querying with Window Functions and CTS
+* Advanced Querying with Window Functions and CTE
 * Filtering and Sorting Data
 * String Manipulation and Array Handling
 * Data Transformation and Cleaning
