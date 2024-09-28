@@ -1,7 +1,7 @@
 # Netflix Movies and TV Shows Data Analysis by  SQL
 ![logo](https://github.com/user-attachments/assets/ba1e3483-a16b-4456-8290-d404eafeebe0)
 # Overview
-This project involves an analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
+This project involves an analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various questions based on the dataset.
 # Skills showcased in this Project
 * Database Management and Schema Design
 * Data Aggregation and Grouping
